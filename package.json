@@ -1,0 +1,21 @@
+{
+  "name": "tick-collections",
+  "version": "1.0.0",
+  "description": "TickMap & TickSet are variations of Map and Set whose contents are cleared every tick. Useful for eg memoization based on highly volatile data.",
+  "jsnext:main": "tick-collections.es6.js",
+  "main": "tick-collections.umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barneycarroll/tick-collections.git"
+  },
+  "keywords": [ "map", "set", "collections", "momentary", "memoization", "instant", "gc", "garbage", "collection", "storage" ],
+  "author": "Barney Carroll <barney.carroll@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/tick-collections/issues"
+  },
+  "homepage": "https://github.com/barneycarroll/tick-collections#readme"
+}
