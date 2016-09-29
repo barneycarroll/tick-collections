@@ -15,7 +15,7 @@ npm i tick-collections
 #### or grab the UMD module from a CDN
 
 ```html
-<script src="https://cdn.rawgit.com/barneycarroll/tick-collections/1.0.1/tick-collections.umd.js"></script>
+<script src="https://cdn.rawgit.com/barneycarroll/tick-collections/1.0.2/umd.js"></script>
 ```
 
 ### Import
