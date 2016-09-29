@@ -1,6 +1,6 @@
 {
   "name": "tick-collections",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TickMap & TickSet are variations of Map and Set whose contents are cleared every tick. Useful for eg memoization based on highly volatile data.",
   "jsnext:main": "tick-collections.es6.js",
   "module": "tick-collections.es6.js",
